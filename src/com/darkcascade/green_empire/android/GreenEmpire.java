@@ -25,7 +25,7 @@ public class GreenEmpire extends ApplicationAdapter {
 		Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
 		batch.begin();
 		batch.draw(img, 0, 0);
-		text.draw(batch, "Harvest", 20, Gdx.graphics.getHeight() - 40);
+		text.draw(batch, "Harvest now", 20, Gdx.graphics.getHeight() - 40);
 		batch.end();
 	}
 }
