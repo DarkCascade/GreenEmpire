@@ -4,7 +4,7 @@ import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import com.darkcascade.green_empire.GreenEmpire;
+import com.darkcascade.green_empire.android.GreenEmpire;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override
